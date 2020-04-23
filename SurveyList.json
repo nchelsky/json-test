@@ -1,6 +1,6 @@
 {
     "survey": [
-        {"nameasdf": "PPEDCAM Study", "description": "COVID-19 Airway Management", "url": "https://theairwayapp.typeform.com/to/IZLa4Q"},
+        {"name": "PPEDCAM Study", "description": "COVID-19 Airway Management", "url": "https://theairwayapp.typeform.com/to/IZLa4Q"},
         {"name": "Emergency Surgical Airway", "description": "Front of Neck Access", "url": "https://theairwayapp.typeform.com/to/HpWtgW"}
     ]
 }
