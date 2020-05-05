@@ -1,6 +1,6 @@
 {
     "survey": [
-        {"name": "PPE During COVID-19 Airway Management Study", "description": "PPEDCAM", "url": "https://theairwayapp.typeform.com/to/Zr8IXv", "followup": false},
+        {"name": "PPE During COVID-19 Airway Management Study", "description": "", "url": "https://theairwayapp.typeform.com/to/Zr8IXv", "followup": false},
         {"name": "Followup Study", "description": "Followup Study Description", "url": "https://theairwayapp.typeform.com/to/IZLa4Q", "followup": true},
         {"name": "Emergency Surgical Airway", "description": "Front of Neck Access", "url": "https://theairwayapp.typeform.com/to/HpWtgW", "followup": false}
     ]
